@@ -909,7 +909,101 @@ No video files are stored in this repository. The repository simply contains use
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
 
+------------------------------------
 
+10 Play (Australia) (updated 17/01/23)
+https://www.apsattv.com/10fast.m3u
+not working, this list undergoing maintenance
+----------------------------------------------------------------------------------
+
+These are supplied by a 3rd party
+Please note these are scraped lists and some services may be GEO-blocked)
+
+LocalNow (updated 2/11/24)
+https://www.apsattv.com/localnow.m3u
+
+Redbox (updated 20/10/24)
+https://www.apsattv.com/redbox.m3u
+Distro (updated 21/10/24)
+https://www.apsattv.com/distro.m3u
+Igocast (updated 6/07/23) - note this service is unreliable!
+https://www.apsattv.com/igocast.m3u
+
+LocalNow (updated 2/11/24)
+https://www.apsattv.com/localnow.m3u
+
+-----------------------------------------------------------------------------------
+
+LG Channels (updated 25/12/24)
+https://www.apsattv.com/lg.m3u
+TCL TV Plus (updated 5/12/24)
+https://www.apsattv.com/tclplus.m3u
+Cineverse (updated 21/10/24)
+https://www.apsattv.com/cineverse.m3u
+
+Tablo (updated 13/10/24)
+https://www.apsattv.com/tablo.m3u
+TCL (updated 22/09/24)
+https://www.apsattv.com/tcl.m3u
+
+Vizio TV (updated 16/09/24)
+https://www.apsattv.com/vizio.m3u
+
+Xiaomi (updated 22/05/24)
+https://www.apsattv.com/xiaomi.m3u
+Zeasn (updated 14/05/24)
+https://www.apsattv.com/zeasn.m3u
+Tubi TV (There is a link here, NOT MINE! no resposibilty is taken for this 3rd party content)
+https://github.com/dtankdempse/tubi-m3u/tree/main
+Vidaa (updated 6/01/24)
+https://www.apsattv.com/vidaa.m3u
+Xumo (updated 16/12/23)
+https://www.apsattv.com/xumo.m3u
+
+The Roku Channel
+https://www.apsattv.com/rok.m3u
+
+Xiaomi (updated 25/10/23)
+https://www.apsattv.com/xiaomi.m3u
+Sportstv (updated 6/08/23)
+https://www.apsattv.com/sportstv.m3u
+
+Klowd TV (added 24/04/21) (updated 18/07/23)
+https://www.apsattv.com/klowd.m3u
+
+Freetv (updated 4/06/23)
+https://www.apsattv.com/freetv.m3u
+Zeasn (updated 22/05/23)
+https://www.apsattv.com/zeasn.m3u
+Rewardedtv (updated 24/04/23)
+https://www.apsattv.com/rewardedtv.m3u
+Vidaa (updated 13/11/23)
+https://www.apsattv.com/vidaa.m3u
+Freemoviesplus (updated 24/04/23)
+https://www.apsattv.com/freemoviesplus.m3u
+Veely
+https://www.apsattv.com/veely.m3u
+Galxy.TV
+https://www.apsattv.com/galxytv.m3u
+
+------------------------------------------------------
+
+Removed playlists (Services no longer Active)
+
+Herogo TV
+BumbleBee TV
+Anthym TV
+Other issues
+
+Rakuten TV (Removed)
+
+Rakuten TV UK (updated 24/07/23)
+Please note this is a scraped list and some services may be GEO-blocked
+
+Rakuten TV J.P Outdated to be removed
+https://www.apsattv.com/rakuten-jp.m3u
+
+-------------------------------------------
 Samsung TV Plus
 
 These are manually compiled for regions that don't appear in the official app, they will never be fully current. Manually logging their traffic direct from a tv via wifi hotspot is one way...
