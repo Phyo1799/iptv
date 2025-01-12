@@ -908,3 +908,52 @@ No video files are stored in this repository. The repository simply contains use
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+
+
+Samsung TV Plus
+
+These are manually compiled for regions that don't appear in the official app, they will never be fully current. Manually logging their traffic direct from a tv via wifi hotspot is one way...
+NZ
+https://www.apsattv.com/ssungnz.m3u
+
+Australia
+https://www.apsattv.com/ssungaus.m3u
+
+Thailand
+https://www.apsattv.com/ssungth.m3u
+
+Philipines
+https://www.apsattv.com/ssungph.m3u
+
+Thailand
+https://www.apsattv.com/ssungth.m3u
+
+Brazil
+https://www.apsattv.com/ssungbra.m3u
+
+Mexico
+https://www.apsattv.com/ssungmex.m3u
+
+Norway
+https://www.apsattv.com/ssungnor.m3u
+
+Finland
+https://www.apsattv.com/ssungfin.m3u
+
+Denmark
+https://www.apsattv.com/ssungden.m3u
+
+Sweden
+https://www.apsattv.com/ssungswe.m3u
+
+Portugal
+https://www.apsattv.com/ssungpor.m3u
+
+Luxembourg
+https://www.apsattv.com/ssunglux.m3u
+
+Belgium
+https://www.apsattv.com/ssungbelg.m3u
+
+Ireland
+https://www.apsattv.com/ssungire.m3u
